@@ -1,0 +1,12 @@
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\bin\Release\KomisSamochodowy1.mdb
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\bin\Release\KomisSamochodowy.exe.config
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\bin\Release\KomisSamochodowy.exe
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\bin\Release\KomisSamochodowy.pdb
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\bin\Release\KomisSamochodowy.xml
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\obj\Release\KomisSamochodowy.frmKomis.resources
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\obj\Release\KomisSamochodowy.Resources.resources
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\obj\Release\KomisSamochodowy.vbproj.GenerateResource.Cache
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\obj\Release\KomisSamochodowy.exe
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\obj\Release\KomisSamochodowy.xml
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\obj\Release\KomisSamochodowy.pdb

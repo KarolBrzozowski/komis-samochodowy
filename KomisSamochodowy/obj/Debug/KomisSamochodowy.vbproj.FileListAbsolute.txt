@@ -1,0 +1,128 @@
+C:\Documents and Settings\jan\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KomisSamochodowy\bin\Debug\KomisSamochodowy1.mdb
+C:\Documents and Settings\jan\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+C:\Documents and Settings\jan\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe
+C:\Documents and Settings\jan\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KomisSamochodowy\bin\Debug\KomisSamochodowy.pdb
+C:\Documents and Settings\jan\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KomisSamochodowy\bin\Debug\KomisSamochodowy.xml
+C:\Documents and Settings\jan\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KomisSamochodowy\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jan\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KomisSamochodowy\obj\Debug\KomisSamochodowy.frmKomis.resources
+C:\Documents and Settings\jan\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KomisSamochodowy\obj\Debug\KomisSamochodowy.Resources.resources
+C:\Documents and Settings\jan\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KomisSamochodowy\obj\Debug\KomisSamochodowy.vbproj.GenerateResource.Cache
+C:\Documents and Settings\jan\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+C:\Documents and Settings\jan\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KomisSamochodowy\obj\Debug\KomisSamochodowy.xml
+C:\Documents and Settings\jan\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
+C:\Documents and Settings\jan\Pulpit\PrjektBaza\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+C:\Documents and Settings\jan\Pulpit\PrjektBaza\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+C:\Documents and Settings\jan\Pulpit\PrjektBaza\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.xml
+C:\Documents and Settings\jan\Pulpit\PrjektBaza\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
+C:\Documents and Settings\jan\Pulpit\PrjektBaza\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy1.mdb
+C:\Documents and Settings\jan\Pulpit\PrjektBaza\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe
+C:\Documents and Settings\jan\Pulpit\PrjektBaza\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.pdb
+C:\Documents and Settings\jan\Pulpit\PrjektBaza\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.xml
+C:\Documents and Settings\jan\Pulpit\PrjektBaza\KomisSamochodowy\KomisSamochodowy\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jan\Pulpit\PrjektBaza\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.frmKomis.resources
+C:\Documents and Settings\jan\Pulpit\PrjektBaza\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.Resources.resources
+C:\Documents and Settings\jan\Pulpit\PrjektBaza\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.vbproj.GenerateResource.Cache
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.xml
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy1.mdb
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.pdb
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.xml
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.frmKomis.resources
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.Resources.resources
+C:\Documents and Settings\jan\Pulpit\NowaKopia\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.vbproj.GenerateResource.Cache
+C:\Documents and Settings\jan\Pulpit\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+C:\Documents and Settings\jan\Pulpit\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+C:\Documents and Settings\jan\Pulpit\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.xml
+C:\Documents and Settings\jan\Pulpit\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
+C:\Documents and Settings\jan\Pulpit\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy1.mdb
+C:\Documents and Settings\jan\Pulpit\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe
+C:\Documents and Settings\jan\Pulpit\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.pdb
+C:\Documents and Settings\jan\Pulpit\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.xml
+C:\Documents and Settings\jan\Pulpit\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jan\Pulpit\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.frmKomis.resources
+C:\Documents and Settings\jan\Pulpit\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.Resources.resources
+C:\Documents and Settings\jan\Pulpit\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.vbproj.GenerateResource.Cache
+C:\Documents and Settings\jan\Pulpit\naZaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+C:\Documents and Settings\jan\Pulpit\naZaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+C:\Documents and Settings\jan\Pulpit\naZaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.xml
+C:\Documents and Settings\jan\Pulpit\naZaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
+C:\Zaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+C:\Zaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+C:\Zaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.xml
+C:\Zaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
+C:\Zaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy1.mdb
+C:\Zaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe
+C:\Zaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.pdb
+C:\Zaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.xml
+C:\Zaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\ResolveAssemblyReference.cache
+C:\Zaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.frmKomis.resources
+C:\Zaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.Resources.resources
+C:\Zaliczenie\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.vbproj.GenerateResource.Cache
+C:\ZaliczenieA\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+C:\ZaliczenieA\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+C:\ZaliczenieA\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.xml
+C:\ZaliczenieA\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
+C:\ZaliczenieA\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy1.mdb
+C:\ZaliczenieA\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe
+C:\ZaliczenieA\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.pdb
+C:\ZaliczenieA\trzyBazy\KomisSamochodowy\KomisSamochodowy\bin\Debug\KomisSamochodowy.xml
+C:\ZaliczenieA\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\ResolveAssemblyReference.cache
+C:\ZaliczenieA\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.frmKomis.resources
+C:\ZaliczenieA\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.Resources.resources
+C:\ZaliczenieA\trzyBazy\KomisSamochodowy\KomisSamochodowy\obj\Debug\KomisSamochodowy.vbproj.GenerateResource.Cache
+C:\KB\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+C:\KB\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+C:\KB\KomisSamochodowy\obj\Debug\KomisSamochodowy.xml
+C:\KB\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
+C:\KB\KomisSamochodowy\bin\Debug\KomisSamochodowy1.mdb
+C:\KB\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe
+C:\KB\KomisSamochodowy\bin\Debug\KomisSamochodowy.pdb
+C:\KB\KomisSamochodowy\bin\Debug\KomisSamochodowy.xml
+C:\KB\KomisSamochodowy\obj\Debug\ResolveAssemblyReference.cache
+C:\KB\KomisSamochodowy\obj\Debug\KomisSamochodowy.frmKomis.resources
+C:\KB\KomisSamochodowy\obj\Debug\KomisSamochodowy.Resources.resources
+C:\KB\KomisSamochodowy\obj\Debug\KomisSamochodowy.vbproj.GenerateResource.Cache
+C:\Documents and Settings\jan\Pulpit\KB\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+C:\Documents and Settings\jan\Pulpit\KB\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+C:\Documents and Settings\jan\Pulpit\KB\KomisSamochodowy\obj\Debug\KomisSamochodowy.xml
+C:\Documents and Settings\jan\Pulpit\KB\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
+C:\KB1\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+C:\KB1\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+C:\KB1\KomisSamochodowy\obj\Debug\KomisSamochodowy.xml
+C:\KB1\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
+C:\KB1\KomisSamochodowy\bin\Debug\KomisSamochodowy1.mdb
+C:\KB1\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe
+C:\KB1\KomisSamochodowy\bin\Debug\KomisSamochodowy.pdb
+C:\KB1\KomisSamochodowy\bin\Debug\KomisSamochodowy.xml
+C:\KB1\KomisSamochodowy\obj\Debug\ResolveAssemblyReference.cache
+C:\KB1\KomisSamochodowy\obj\Debug\KomisSamochodowy.frmKomis.resources
+C:\KB1\KomisSamochodowy\obj\Debug\KomisSamochodowy.Resources.resources
+C:\KB1\KomisSamochodowy\obj\Debug\KomisSamochodowy.vbproj.GenerateResource.Cache
+C:\KB2\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+C:\KB2\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+C:\KB2\KomisSamochodowy\obj\Debug\KomisSamochodowy.xml
+C:\KB2\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
+C:\KB2\KomisSamochodowy\bin\Debug\KomisSamochodowy1.mdb
+C:\KB2\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe
+C:\KB2\KomisSamochodowy\bin\Debug\KomisSamochodowy.pdb
+C:\KB2\KomisSamochodowy\bin\Debug\KomisSamochodowy.xml
+C:\KB2\KomisSamochodowy\obj\Debug\ResolveAssemblyReference.cache
+C:\KB2\KomisSamochodowy\obj\Debug\KomisSamochodowy.frmKomis.resources
+C:\KB2\KomisSamochodowy\obj\Debug\KomisSamochodowy.Resources.resources
+C:\KB2\KomisSamochodowy\obj\Debug\KomisSamochodowy.vbproj.GenerateResource.Cache
+C:\KBrzozowski\KB2\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe.config
+C:\KBrzozowski\KB2\KomisSamochodowy\obj\Debug\KomisSamochodowy.exe
+C:\KBrzozowski\KB2\KomisSamochodowy\obj\Debug\KomisSamochodowy.xml
+C:\KBrzozowski\KB2\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
+C:\KBrzozowski\KB2\KomisSamochodowy\bin\Debug\KomisSamochodowy1.mdb
+C:\KBrzozowski\KB2\KomisSamochodowy\bin\Debug\KomisSamochodowy.exe
+C:\KBrzozowski\KB2\KomisSamochodowy\bin\Debug\KomisSamochodowy.pdb
+C:\KBrzozowski\KB2\KomisSamochodowy\bin\Debug\KomisSamochodowy.xml
+C:\KBrzozowski\KB2\KomisSamochodowy\obj\Debug\ResolveAssemblyReference.cache
+C:\KBrzozowski\KB2\KomisSamochodowy\obj\Debug\KomisSamochodowy.frmKomis.resources
+C:\KBrzozowski\KB2\KomisSamochodowy\obj\Debug\KomisSamochodowy.Resources.resources
+C:\KBrzozowski\KB2\KomisSamochodowy\obj\Debug\KomisSamochodowy.vbproj.GenerateResource.Cache
